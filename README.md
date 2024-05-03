@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JebinAbraham
-- 👀 I’m interested in everythin
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on anythin
 - 📫 How to reach me -> message me on linkedin | Jebin Abraham
 
 <!---
